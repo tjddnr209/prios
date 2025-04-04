@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: prios
+  profiles:
+    active: local
